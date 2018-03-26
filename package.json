@@ -1,0 +1,11 @@
+{
+  "name": "spot-loader",
+  "version": "0.0.1",
+  "main": "app.js",
+  "author": "Gary Velasquez <gary.velasquez.lopez@gmail.com>",
+  "description": "Puppeteer test",
+  "dependencies": {
+    "puppeteer": "^1.2.0"
+  },
+  "devDependencies": {}
+}
